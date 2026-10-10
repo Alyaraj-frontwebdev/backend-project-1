@@ -1,0 +1,2 @@
+we use 'app.use(express.json())' to parse the JSON data sent from the client to the server
+but when we have data in the form of form-data then we use multer
